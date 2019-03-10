@@ -32,7 +32,7 @@ class Details extends Component {
 
   handleSearch = term => {
     const { fetchTiles, history } = this.props;
-    history.push('/');
+    history.push('/Rijksmuseum-app/');
     fetchTiles(10, 1, term);
   };
 

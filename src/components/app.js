@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div className="App">
       <Switch>
-        <Route path="/" component={HomePage} exact />
+        <Route path="/Rijksmuseum-app/" component={HomePage} exact />
         <Route
           path="/details/:id"
           render={({ match }) => {
@@ -21,7 +21,7 @@ const App = () => {
             return (
               <div>
                 <h1>Page not found</h1>
-                <Link to="/">Home</Link>
+                <Link to="/Rijksmuseum-app/">Home</Link>
               </div>
             );
           }}

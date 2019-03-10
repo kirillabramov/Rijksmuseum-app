@@ -66,10 +66,9 @@ class Items extends Component {
   };
 
   handlePost = post => {
-    const { fetchDetails, details } = this.props;
+    const { fetchDetails } = this.props;
     this.setState({ show: true });
     fetchDetails(post.objectNumber);
-    console.log(details);
   };
 
   renderItems = post => {
