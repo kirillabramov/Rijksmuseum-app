@@ -1,13 +1,13 @@
 {
   "main.css": "/Rijksmuseum-app/static/css/main.51219ac6.chunk.css",
-  "main.js": "/Rijksmuseum-app/static/js/main.c71ba4c6.chunk.js",
-  "main.js.map": "/Rijksmuseum-app/static/js/main.c71ba4c6.chunk.js.map",
+  "main.js": "/Rijksmuseum-app/static/js/main.7e1c9ac2.chunk.js",
+  "main.js.map": "/Rijksmuseum-app/static/js/main.7e1c9ac2.chunk.js.map",
   "static/js/1.71f5071b.chunk.js": "/Rijksmuseum-app/static/js/1.71f5071b.chunk.js",
   "static/js/1.71f5071b.chunk.js.map": "/Rijksmuseum-app/static/js/1.71f5071b.chunk.js.map",
   "runtime~main.js": "/Rijksmuseum-app/static/js/runtime~main.2cdf335e.js",
   "runtime~main.js.map": "/Rijksmuseum-app/static/js/runtime~main.2cdf335e.js.map",
   "static/css/main.51219ac6.chunk.css.map": "/Rijksmuseum-app/static/css/main.51219ac6.chunk.css.map",
   "index.html": "/Rijksmuseum-app/index.html",
-  "precache-manifest.1b01aa07d77b57fd10272dd736df215f.js": "/Rijksmuseum-app/precache-manifest.1b01aa07d77b57fd10272dd736df215f.js",
+  "precache-manifest.27c2ee0e74e700dce9f04a868b4f9cf0.js": "/Rijksmuseum-app/precache-manifest.27c2ee0e74e700dce9f04a868b4f9cf0.js",
   "service-worker.js": "/Rijksmuseum-app/service-worker.js"
 }

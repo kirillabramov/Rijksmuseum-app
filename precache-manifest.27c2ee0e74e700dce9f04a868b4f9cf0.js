@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c71ba4c6707e371f7554",
+    "revision": "7e1c9ac29c2cfa464e04",
     "url": "/Rijksmuseum-app/static/css/main.51219ac6.chunk.css"
   },
   {
-    "revision": "c71ba4c6707e371f7554",
-    "url": "/Rijksmuseum-app/static/js/main.c71ba4c6.chunk.js"
+    "revision": "7e1c9ac29c2cfa464e04",
+    "url": "/Rijksmuseum-app/static/js/main.7e1c9ac2.chunk.js"
   },
   {
     "revision": "71f5071beb7d2fd6f940",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Rijksmuseum-app/static/js/runtime~main.2cdf335e.js"
   },
   {
-    "revision": "b24fc4f94f3d1d517e1a5412cddb11e5",
+    "revision": "823da6eea052e0647709c42569c77b21",
     "url": "/Rijksmuseum-app/index.html"
   }
 ];

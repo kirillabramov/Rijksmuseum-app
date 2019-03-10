@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Rijksmuseum-app/precache-manifest.1b01aa07d77b57fd10272dd736df215f.js"
+  "/Rijksmuseum-app/precache-manifest.27c2ee0e74e700dce9f04a868b4f9cf0.js"
 );
 
 workbox.clientsClaim();
